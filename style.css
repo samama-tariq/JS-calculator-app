@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+input{
+    border: 1px solid black;
+    width: 151px;
+    height: 40px;
+}
+#equalsto{
+    width: 81px;
+}
+#minus{
+    width: 35px;
+}
+#clr{
+width: 151px;
+}
+
